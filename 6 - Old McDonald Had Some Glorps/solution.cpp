@@ -1,3 +1,5 @@
+//This solution was written by Kevin Robb.
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
