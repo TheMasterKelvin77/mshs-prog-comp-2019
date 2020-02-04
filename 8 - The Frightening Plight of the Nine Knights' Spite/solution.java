@@ -1,3 +1,5 @@
+//This solution was written by Jake Crampton.
+
 import java.io.*;
 import java.util.*;
 
@@ -10,9 +12,7 @@ public class Solution {
             String line=scan.next();
             for(int j=0;j<5;j++){
                 board[i][j]=line.charAt(j);
-                //System.out.print(line.charAt(j));
             }
-           // System.out.println();
         }
         boolean bad=false;
         for(int i=0;i<5;i++){
