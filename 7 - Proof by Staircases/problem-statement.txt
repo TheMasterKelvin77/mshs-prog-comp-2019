@@ -1,3 +1,5 @@
+This problem was written by Kevin Robb.
+
 Every day after math class, you climb the same staircase. Since you have long legs, you can take the steps one or two at a time. Naturally, your math class puts you in a mathy mood, and you wonder just how many different ways there are to climb the stairs, given the total number of steps.
 
 Input Format

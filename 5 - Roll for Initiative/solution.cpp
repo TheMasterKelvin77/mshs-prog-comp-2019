@@ -1,3 +1,5 @@
+//This solution was written by Kevin Robb.
+
 #include <map>
 #include <set>
 #include <list>

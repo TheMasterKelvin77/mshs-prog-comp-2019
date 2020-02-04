@@ -1,3 +1,5 @@
+This problem was written by Ryan Chimienti.
+
 The programs at the Military Academy of Computer Programs have been behaving badly lately, executing commands on their own and sending questionable emails to Academy staff. As I’m sure you know, the Academy doesn’t tolerate disobedience. We need a program that demonstrates good behavior by doing what it’s told.
 
 Input Format

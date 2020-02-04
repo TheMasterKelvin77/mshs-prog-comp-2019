@@ -1,3 +1,5 @@
+This problem was written by Kevin Robb.
+
 A tradition at OU football games is the “Boomer! Sooner!” chant, where one of the stadium yells “Boomer!” and the other responds “Sooner!”. This is a great way to hype up the crowd and to get in the opposing team’s head. However, it can sometimes be awkward for the crowd when they don’t know when to stop. They just keep yelling “Boomer!” “Sooner!” “Boomer!” “Sooner!” “Boomer!”… until one side finally gets quiet enough that the other side doesn’t hear them. OU President James Gallogly has asked you to solve this problem. He wants to give you a number N and have you put “Boomer!” followed by “Sooner!” on the big screen N times. Can you do it?
 
 Input Format

@@ -1,3 +1,5 @@
+This problem was written by Kevin Robb.
+
 You are the Game Master for a Dungeons & Dragons campaign with some of your friends, and you have an unhealthy obsession with statistics and probability. You tell all your players to roll their dice, but you specify which die each of them should use. You want to be able to anticipate their rolls by calculating the expected average value of the entire party’s dice.
 
 We will assume each player has obtained a complete collection of dice with all possible numbers of sides, which they keep in their Bag of Holding. Each player might be assigned dice with different numbers of sides, or there could be overlap among party members. Dice are numbered starting from 1 and increasing up to their max value, which equals the number of sides. Since you are friends with everyone in the party, they will use the dice you tell them to.

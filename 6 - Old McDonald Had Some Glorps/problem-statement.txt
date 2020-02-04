@@ -1,3 +1,5 @@
+This problem was written by David McKnight.
+
 Farmer Hjalmar McDonald is doing his yearly Glorp planting, but has forgotten the arrangement from the year before. For those who didn’t pay attention in Glorps 101, Glorps are highly valuable plants that, if planted too close to one another, will eat each other when they have grown. Old Man Hjalmar obviously would like to avoid this, and has asked you to check his proposed new arrangement.
 
 Input Format
