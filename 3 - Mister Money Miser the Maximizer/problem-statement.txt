@@ -1,0 +1,29 @@
+Mister Money Miser did pretty well in school, so he gets a lot of job offers. When choosing which offer to accept, he doesn’t consider work-life balance or perks, and he sure as heck doesn’t care about the workplace culture. No, Mister Money Miser only looks at one thing: the moolah.
+
+Your job is to help Mister Money Miser out by writing a program that takes five potential salaries and prints the highest one.
+
+image“My money’s the best friend I ever had”
+
+Input Format
+
+The first five lines will each contain a single integer, N_x (where x is the row number), representing the salary.
+
+Constraints
+
+1 <= N_x <= 100000 for all x
+
+Output Format
+
+Print the greatest of the five input integers followed by a newline.
+
+Sample Input 0
+
+1
+2
+3
+4
+5
+
+Sample Output 0
+
+5
