@@ -1,0 +1,35 @@
+You are the Game Master for a Dungeons & Dragons campaign with some of your friends, and you have an unhealthy obsession with statistics and probability. You tell all your players to roll their dice, but you specify which die each of them should use. You want to be able to anticipate their rolls by calculating the expected average value of the entire party’s dice.
+
+We will assume each player has obtained a complete collection of dice with all possible numbers of sides, which they keep in their Bag of Holding. Each player might be assigned dice with different numbers of sides, or there could be overlap among party members. Dice are numbered starting from 1 and increasing up to their max value, which equals the number of sides. Since you are friends with everyone in the party, they will use the dice you tell them to.
+
+Input Format
+
+The first line will contain a single integer 0<N<10000 specifying the number of party members who will be rolling. The next N lines will contain an integer 1<S<10000 denoting the number of sides on the die they will roll. (e.g., S = 6 would denote rolling a d6, or a 6-sided die)
+
+Output Format
+
+A single number accurate to 3 decimal places representing the average of the average values of each individual die. The number should be rounded to 3 decimal places, not simply truncated. In cases where the answer can be expressed with less than 3 decimal places, still use 3 decimal places. This means that 0 becomes 0.000 and 0.5 becomes 0.500.
+
+Sample Input 0
+
+5
+6
+6
+6
+6
+6
+
+Sample Output 0
+
+3.500
+
+Sample Input 1
+
+3
+4
+8
+20
+
+Sample Output 1
+
+5.833
