@@ -1,3 +1,5 @@
+#This solution was written by Ryan Chimienti.
+
 a = []
 b = []
 output = 'valid'
