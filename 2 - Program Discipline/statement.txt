@@ -1,0 +1,25 @@
+The programs at the Military Academy of Computer Programs have been behaving badly lately, executing commands on their own and sending questionable emails to Academy staff. As I’m sure you know, the Academy doesn’t tolerate disobedience. We need a program that demonstrates good behavior by doing what it’s told.
+
+Input Format
+
+The only line will be text of the form “Do <command>!”
+
+Output Format
+
+Print “Did <command>!” followed by a newline.
+
+Sample Input 0
+
+Do 20 pushups!
+
+Sample Output 0
+
+Did 20 pushups!
+
+Sample Input 1
+
+Do some thinking about your behavior!
+
+Sample Output 1
+
+Did some thinking about your behavior!
