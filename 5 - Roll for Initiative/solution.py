@@ -1,3 +1,5 @@
+#This solution was written by Ryan Chimienti.
+
 import sys
 
 lines = sys.stdin.readlines()
