@@ -1,3 +1,5 @@
+This problem was written by Ryan Chimienti.
+
 In the movie *A Christmas Story*, Ralphie uses a special decoder to convert a series of numbers into text. To his disappointment, the secret message hidden in the numbers is just an ad for a drink called Ovaltine.
 
 We're going to give you some secret messages of your own, and unlike Ralphie's, these will be very important. Your task is to write a program that decodes our messages according to the following tables:
