@@ -1,3 +1,5 @@
+This problem was written by David McKnight.
+
 Mister Money Miser did pretty well in school, so he gets a lot of job offers. When choosing which offer to accept, he doesn’t consider work-life balance or perks, and he sure as heck doesn’t care about the workplace culture. No, Mister Money Miser only looks at one thing: the moolah.
 
 Your job is to help Mister Money Miser out by writing a program that takes five potential salaries and prints the highest one.
