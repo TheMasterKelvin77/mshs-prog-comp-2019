@@ -1,0 +1,57 @@
+Every day after math class, you climb the same staircase. Since you have long legs, you can take the steps one or two at a time. Naturally, your math class puts you in a mathy mood, and you wonder just how many different ways there are to climb the stairs, given the total number of steps.
+
+Input Format
+
+A single integer 0<N<10000 denoting the total number of steps on the staircase.
+
+Output Format
+
+A single integer denoting the number of possible ways to climb the stairs taking either one or two steps at a time.
+
+Sample Input 0
+
+1
+
+Sample Output 0
+
+1
+
+Sample Input 1
+
+2
+
+Sample Output 1
+
+2
+
+Explanation 1
+
+You can take the 2 steps at once, or you can take 1 step and then 1 step. That's 2 possibilities, so the output is 2.
+
+Sample Input 2
+
+5
+
+Sample Output 2
+
+8
+
+Explanation 2
+
+The 8 possibilities are:
+
+1, 1, 1, 1, 1
+
+1, 1, 1, 2
+
+1, 1, 2, 1
+
+1, 2, 1, 1
+
+2, 1, 1, 1
+
+1, 2, 2
+
+2, 1, 2
+
+2, 2, 1
